@@ -28,7 +28,7 @@ export const initialSongs: Song[] = [
         duration: "4:54",
         trackNumber: "02",
         image: "/images/monster.png",
-        audio: "/audio/domartistudios-magical-wizard-school-orchestral-fantasy-488126.mp3",
+        audio: "/audio/Kanye West, Rick Ross, JAY-Z, Nicki Minaj & Bon Iver - Monster (Official Music Video) [Remastered].mp3",
     },
     {
         id: 3,
