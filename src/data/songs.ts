@@ -58,7 +58,7 @@ export const initialSongs: Song[] = [
         duration: "5:32",
         trackNumber: "05",
         image: "/images/Bugger than life.jpg",
-        audio: "/audio/domartistudios-magical-wizard-school-orchestral-fantasy-488126.mp3"
+        audio: "/audio/Chris Brown, Tyga, Birdman & Lil Wayne - Bigger Than Life (Rich Gang).mp3"
     },
     {
         id: 6,
@@ -68,7 +68,7 @@ export const initialSongs: Song[] = [
         duration: "3:41",
         trackNumber: "06",
         image: "/images/the hills .jpg",
-        audio: "/audio/domartistudios-magical-wizard-school-orchestral-fantasy-488126.mp3",
+        audio: "/audio/The Weeknd - The Hills.mp3",
     },
     {
         id: 7,
@@ -78,7 +78,7 @@ export const initialSongs: Song[] = [
         duration: "3:20",
         trackNumber: "07",
         image: "/images/the worst.jpg",
-        audio: "/audio/domartistudios-magical-wizard-school-orchestral-fantasy-488126.mp3",
+        audio: "/audio/Jhené Aiko - The Worst (Explicit).mp3",
     },
     {
         id: 8,
