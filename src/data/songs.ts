@@ -88,6 +88,6 @@ export const initialSongs: Song[] = [
         duration: "4:37",
         trackNumber: "08",
         image: "/images/Pere.jpg",
-        audio: "/audio/domartistudios-magical-wizard-school-orchestral-fantasy-488126.mp3"
+        audio: "/audio/pere.mp3"
     }
 ]
