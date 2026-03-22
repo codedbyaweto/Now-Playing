@@ -18,7 +18,7 @@ export const initialSongs: Song[] = [
         duration: "3:47",
         trackNumber: "01",
         image: "/images/afterlife .jpg",
-        audio: "/audio/pere.mp3"
+        audio: "/audio/Evanescence ｜ Afterlife ｜ Devil May Cry ｜ Official Soundtrack ｜ Netflix.mp3"
     },
     {
         id: 2,
@@ -38,7 +38,7 @@ export const initialSongs: Song[] = [
         duration: "2:59",
         trackNumber: "03",
         image: "/images/jennifers body.png",
-        audio: "/audio/domartistudios-magical-wizard-school-orchestral-fantasy-488126.mp3"
+        audio: "/audio/Ken Carson - Jennifer's Body (Official Music Video).mp3"
     },
     {
         id: 4,
@@ -48,7 +48,7 @@ export const initialSongs: Song[] = [
         duration: "4:20",
         trackNumber: "04",
         image: "/images/bring me to life.jpg",
-        audio: "/audio/domartistudios-magical-wizard-school-orchestral-fantasy-488126.mp3"
+        audio: "/audio/Evanescence - Bring Me to Life.mp3"
     },
     {
         id: 5,
